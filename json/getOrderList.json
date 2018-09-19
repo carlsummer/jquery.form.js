@@ -1,0 +1,75 @@
+{
+	"code": 0,
+	"msg": "成功",
+	"data": [{
+		"send_type_name": "叫车送货",
+		"to_address": "肇庆市四会市",
+		"goods_desc": "1.8米三轮车",
+		"from_address": "肇庆市四会市",
+		"date_add_desc": "09-19 10:09",
+		"express_amount_desc": "33.0元"
+	}, {
+		"send_type_name": "拼车配货",
+		"to_address": "湖北省黄冈市",
+		"goods_desc": "沙发 4方",
+		"from_address": "广东省佛山市",
+		"date_add_desc": "09-19 09:46",
+		"express_amount_desc": "等待报价"
+	}, {
+		"send_type_name": "包车专送",
+		"to_address": "浙江省宁波市",
+		"goods_desc": "玩具 2吨/45方 8.7米平板车",
+		"from_address": "浙江省嘉兴市",
+		"date_add_desc": "09-19 09:33",
+		"express_amount_desc": "1364.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "嘉兴市海宁市",
+		"goods_desc": "4.2米大货车",
+		"from_address": "嘉兴市海宁市",
+		"date_add_desc": "09-19 09:23",
+		"express_amount_desc": "148.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "嘉兴市海宁市",
+		"goods_desc": "4.2米大货车",
+		"from_address": "嘉兴市海宁市",
+		"date_add_desc": "09-19 09:21",
+		"express_amount_desc": "148.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "北京市朝阳区",
+		"goods_desc": "1.7米小面包车",
+		"from_address": "北京市朝阳区",
+		"date_add_desc": "09-19 09:17",
+		"express_amount_desc": "30.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "嘉兴市海宁市",
+		"goods_desc": "1.8米三轮车",
+		"from_address": "嘉兴市海宁市",
+		"date_add_desc": "09-19 09:16",
+		"express_amount_desc": "21.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "肇庆市四会市",
+		"goods_desc": "1.8米三轮车",
+		"from_address": "肇庆市四会市",
+		"date_add_desc": "09-19 09:14",
+		"express_amount_desc": "30.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "嘉兴市海宁市",
+		"goods_desc": "1.8米三轮车",
+		"from_address": "嘉兴市海宁市",
+		"date_add_desc": "09-19 09:14",
+		"express_amount_desc": "21.0元"
+	}, {
+		"send_type_name": "叫车送货",
+		"to_address": "嘉兴市海宁市",
+		"goods_desc": "1.8米三轮车",
+		"from_address": "嘉兴市海宁市",
+		"date_add_desc": "09-19 08:44",
+		"express_amount_desc": "21.0元"
+	}]
+}
